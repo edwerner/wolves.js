@@ -55,7 +55,6 @@ http://wolves-docs.herokuapp.com/
       // add new sound instance to sound manager
       // passing in params hash
       soundManager.addSound(audioParams);
-      
     </script>
     <button id="play" onclick="soundManager.play('WOLVES_DEMO_AUDIO');">play</button>
   </body>
