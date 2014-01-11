@@ -1,7 +1,7 @@
 wolves.js
 =========
 
-A super-lightweight HTML5 audio library with a minimalistic toolset
+A super-lightweight open source HTML5 audio library with a minimalistic toolset
 
 ## Documentation
 Full framework documentation can be found here:
